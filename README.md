@@ -6,6 +6,8 @@ This project focuses on predicting the yearly amount spent by customers in an ec
 
 The dataset contains features such as time spent on the website, time spent on mobile applications, length of membership, and other relevant variables that influence customer spending. The target variable is the yearly amount spent by customers. Data preprocessing steps, including feature selection and scaling, were applied to ensure the data's suitability for regression analysis.
 
+<p align="center"> <img src="https://github.com/user-attachments/assets/e0822f17-7aec-44c1-9216-950eedd8e34b" alt="Ecommerce Customer Expense Model" width = 1000 /> </p>
+
 ## Methodology
 
 The following steps were followed to build and evaluate the models:
@@ -36,6 +38,8 @@ The following steps were followed to build and evaluate the models:
 ## Accuracy and Model Performance
 
 The linear regression model achieves an **R² score of 98.55%**, indicating high accuracy in predicting yearly customer expenditure. Ridge and Lasso regressions, with R² scores of 98.19%, also perform well, showcasing the benefits of regularization in handling multicollinearity and enhancing model stability. The lower RMSE value for Linear Regression (2.783) compared to Ridge (10.538) and Lasso (10.539) further confirms that the Linear Regression model provides the most precise predictions among the tested approaches.
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/6e370706-d671-404c-beff-c3640b008545" alt="Ecommerce Customer Expense Model" width = 1000 /> </p>
 
 ## Further Scope
 
